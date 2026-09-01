@@ -10,6 +10,6 @@ Tokyo-based tech company building AI-powered SaaS platforms, data infrastructure
 ## What we work with
 GitHub Actions, Python, AI/ML, WordPress, Claude Code, AWS, Snowflake, BigQuery, Tableau
 
-https://starscript.co.jp/en
-https://starscript.co.jp/
+- https://starscript.co.jp/en
+- https://starscript.co.jp/
 
