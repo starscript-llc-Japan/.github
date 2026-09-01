@@ -5,6 +5,7 @@ Tokyo-based tech company building AI-powered SaaS platforms, data infrastructure
 ## Active Projects
 - wp-lightning-jp-site-actions-deploy (private)
 - wp-lightning-github-actions-deploy (private)
+- shopify-order-autotag-engine(private)
 - Invoice-AI (public)　Others
 
 ## What we work with
