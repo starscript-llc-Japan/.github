@@ -5,7 +5,7 @@ Tokyo-based tech company building AI-powered SaaS platforms, data infrastructure
 ## Active Projects
 - wp-lightning-jp-site-actions-deploy (private)
 - wp-lightning-github-actions-deploy (private)
-- Invoice-AI (public)
+- Invoice-AI (public)　Others
 
 ## What we work with
 GitHub Actions, Python, AI/ML, WordPress, Claude Code, AWS, Snowflake, BigQuery, Tableau
