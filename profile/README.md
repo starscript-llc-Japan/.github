@@ -6,7 +6,7 @@ Tokyo-based tech company building AI-powered SaaS platforms, data infrastructure
 - wp-lightning-jp-site-actions-deploy (private)
 - wp-lightning-github-actions-deploy (private)
 - shopify-order-autotag-engine(private)
-- scresta-movie(private)
+- scresta-movie-jp(private)
 - Invoice-AI (public)　Others
 
 ## What we work with
