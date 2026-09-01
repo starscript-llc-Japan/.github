@@ -1,4 +1,4 @@
-# StarScript LLC (合同会社StarScript)
+# StarScript LLC (Japan)
 
 Tokyo-based tech company building AI-powered SaaS platforms, data infrastructure, and automation tools.
 
