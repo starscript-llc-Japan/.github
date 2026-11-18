@@ -14,7 +14,7 @@ Tokyo-based tech company building AI-powered SaaS platforms, browser extensions,
 
 ## What we work with
 
-GitHub Actions, Python, AI/ML, WordPress, Chrome Extensions, Claude Code, AWS, Snowflake, BigQuery, Tableau
+Tableau (BI), TypeScript, SQL, VBA, GitHub Actions, AI/ML, WordPress, Chrome Extensions, Claude Code, AWS, Snowflake, BigQuery
 
 ## Website
 
