@@ -6,10 +6,10 @@ Tokyo-based tech company building AI-powered SaaS platforms, browser extensions,
 
 - WordPress Deploy Pipeline – JP Site (private)
 - WordPress Deploy Pipeline – EN Site (private)
-- Shopify Order Auto-Tag Engine (private)
+- Shopify Order Auto-Tag Engine – EN (private)
 - SCRESTA Movie – JP (private)
-- Chrome Extension for Claude Power Users – In Development (private)
-- Invoice AI (public)
+- Chrome Extension for Claude Power Users – EN (private, in development)
+- Invoice AI – EN (public)
 - Others
 
 ## What we work with
