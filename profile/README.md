@@ -16,5 +16,7 @@ Tokyo-based tech company building AI-powered SaaS platforms, browser extensions,
 
 GitHub Actions, Python, AI/ML, WordPress, Chrome Extensions, Claude Code, AWS, Snowflake, BigQuery, Tableau
 
-- https://starscript.co.jp/en
-- https://starscript.co.jp/
+## Website
+
+- [StarScript LLC](https://starscript.co.jp/en/)
+- [StarScript LLC (Japanese)](https://starscript.co.jp/)
